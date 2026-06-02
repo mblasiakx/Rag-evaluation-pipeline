@@ -1,0 +1,25 @@
+experiment:
+  id: exp_00_baseline_general
+  name: Baseline – General Quality
+  type: baseline
+  description: 'Ocena ogólnej jakości pipeline RAG'
+
+rag_config_ref: rag/configs/baselines/rag_baseline_v1.yaml
+
+dataset:
+  name: eval_v1
+  path: datasets/eval_v1.jsonl
+  input_field: question
+  reference_field: ground_truth
+  id_field: question_id
+
+execution:
+  runs: 3
+  seed: 42
+  batch_size: 8
+  save_intermediate_outputs: true
+
+metrics: [correctness, faithfulness, coverage]
+
+logging:
+  output_dir: results/baseline_v1/exp_00_baseline_general

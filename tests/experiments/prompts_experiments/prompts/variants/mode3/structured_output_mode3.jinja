@@ -1,0 +1,22 @@
+Your task is to answer the question based solely on the text provided.
+
+Rules:
+1. Do not use knowledge outside the text.
+2. If the answer is not in the text, set the "answer" field to null.
+3. The answer MUST conform to the JSON format below.
+4. Do not include any text outside the JSON.
+
+Response format (JSON):
+{
+  "answer": string | null,
+  "evidence": string,
+  "confidence": number
+}
+
+Text:
+{{ context }}
+
+Question:
+{{ query }}
+
+Answer:

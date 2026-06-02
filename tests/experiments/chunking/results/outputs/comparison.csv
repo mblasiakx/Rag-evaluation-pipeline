@@ -1,0 +1,11 @@
+experiment,config,num_chunks,coherence,topic_drift,chunk_entropy,chunk_size_mean,chunk_size_std,boundary_quality,inter_chunk_similarity
+chunk_size_search,chunk_size=1024_overlap=20,2,0.6965,0.8059,0.4925,518.0000,709.9352,1.0000,0.1293
+chunk_size_search,chunk_size=128_overlap=20,10,0.3593,0.7956,0.8000,120.0000,25.2982,0.1000,0.4582
+chunk_size_search,chunk_size=256_overlap=20,5,0.4671,0.8240,0.8000,220.0000,80.4984,0.2000,0.3504
+chunk_size_search,chunk_size=512_overlap=20,3,0.5692,0.7778,0.6038,353.3333,274.8187,0.3333,0.5653
+overlap_search,chunk_size=256_overlap=0,4,0.3013,0.7413,0.9866,255.0000,2.0000,0.2500,0.4626
+overlap_search,chunk_size=256_overlap=128,8,0.3161,0.7746,0.9866,239.0000,46.4881,0.2500,0.6354
+overlap_search,chunk_size=256_overlap=32,5,0.2490,0.7469,1.0000,229.6000,59.0322,0.2000,0.5448
+overlap_search,chunk_size=256_overlap=64,6,0.4155,0.7508,0.8244,222.6667,79.7061,0.3333,0.5081
+overlap_search,chunk_size=256_overlap=96,7,0.4703,0.7558,0.8571,222.8571,73.0558,0.4286,0.5777
+semantic_search,chunk_size=256_overlap=0,8,1.0000,0.7623,0.0000,126.2500,39.6980,1.0000,0.3450

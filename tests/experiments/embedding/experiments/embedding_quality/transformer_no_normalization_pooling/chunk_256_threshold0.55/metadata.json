@@ -1,0 +1,142 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "semantic_chunk256_0_0",
+      "doc_id": "metrics_test1",
+      "start_char": 0,
+      "end_char": 11
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_1",
+      "doc_id": "metrics_test1",
+      "start_char": 12,
+      "end_char": 418
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_2",
+      "doc_id": "metrics_test1",
+      "start_char": 419,
+      "end_char": 523
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_3",
+      "doc_id": "metrics_test1",
+      "start_char": 524,
+      "end_char": 801
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_4",
+      "doc_id": "metrics_test1",
+      "start_char": 803,
+      "end_char": 935
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_5",
+      "doc_id": "metrics_test1",
+      "start_char": 936,
+      "end_char": 1113
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_6",
+      "doc_id": "metrics_test1",
+      "start_char": 1114,
+      "end_char": 1233
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_7",
+      "doc_id": "metrics_test1",
+      "start_char": 1234,
+      "end_char": 1370
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_8",
+      "doc_id": "metrics_test1",
+      "start_char": 1371,
+      "end_char": 1568
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_9",
+      "doc_id": "metrics_test1",
+      "start_char": 1569,
+      "end_char": 1840
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_10",
+      "doc_id": "metrics_test1",
+      "start_char": 1841,
+      "end_char": 1944
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_11",
+      "doc_id": "metrics_test1",
+      "start_char": 1945,
+      "end_char": 2174
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_12",
+      "doc_id": "metrics_test1",
+      "start_char": 2175,
+      "end_char": 2346
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_13",
+      "doc_id": "metrics_test1",
+      "start_char": 2347,
+      "end_char": 2405
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_14",
+      "doc_id": "metrics_test1",
+      "start_char": 2406,
+      "end_char": 2542
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_15",
+      "doc_id": "metrics_test1",
+      "start_char": 2544,
+      "end_char": 2634
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_16",
+      "doc_id": "metrics_test1",
+      "start_char": 2635,
+      "end_char": 2772
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_17",
+      "doc_id": "metrics_test1",
+      "start_char": 2773,
+      "end_char": 2967
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_18",
+      "doc_id": "metrics_test1",
+      "start_char": 2968,
+      "end_char": 3066
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_19",
+      "doc_id": "metrics_test1",
+      "start_char": 3067,
+      "end_char": 3168
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_20",
+      "doc_id": "metrics_test1",
+      "start_char": 3169,
+      "end_char": 3281
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_21",
+      "doc_id": "metrics_test1",
+      "start_char": 3282,
+      "end_char": 3460
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_22",
+      "doc_id": "metrics_test1",
+      "start_char": 3461,
+      "end_char": 3563
+    }
+  ]
+}

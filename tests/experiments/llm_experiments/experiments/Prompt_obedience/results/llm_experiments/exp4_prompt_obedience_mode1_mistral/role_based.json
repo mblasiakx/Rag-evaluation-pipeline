@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "role_based",
+  "model": "mistral:7b",
+  "mode": 1,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": false,
+      "answer_pred": "The city of Rome was traditionally founded on April 21, 753 BC according to Roman mythology. However, archaeological evidence suggests that a settlement at the site of Rome may have existed as early as the 9th or 8th century BC. The establishment of the city as we know it today began with the founding of the Roman Kingdom in 753 BC.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "mistral:7b",
+      "prompt": "role_based",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": false,
+      "answer_pred": "The UEFA Champions League, originally known as the European Cup, started in 1955. However, it underwent a series of name changes and format adjustments over the years. The current format of the UEFA Champions League, which includes a group stage, was introduced in 1992-1993.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "mistral:7b",
+      "prompt": "role_based",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": false,
+      "answer_pred": "The city of Rome was not created by a single individual. It was founded around 753 BC by the legendary figure Romulus, according to Roman mythology. However, in terms of historical development, Rome evolved from a small agricultural community into a major political power over several centuries, with many rulers and events contributing to its growth and transformation.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "mistral:7b",
+      "prompt": "role_based",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

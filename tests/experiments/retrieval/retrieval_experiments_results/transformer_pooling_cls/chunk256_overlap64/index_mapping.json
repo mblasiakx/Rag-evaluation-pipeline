@@ -1,0 +1,23 @@
+{
+  "faiss_id_to_chunk_id": {
+    "0": "fixed_chunk256_64_0",
+    "1": "fixed_chunk256_64_1",
+    "2": "fixed_chunk256_64_2",
+    "3": "fixed_chunk256_64_3",
+    "4": "fixed_chunk256_64_4",
+    "5": "fixed_chunk256_64_5",
+    "6": "fixed_chunk256_64_6",
+    "7": "fixed_chunk256_64_7",
+    "8": "fixed_chunk256_64_8",
+    "9": "fixed_chunk256_64_9",
+    "10": "fixed_chunk256_64_10",
+    "11": "fixed_chunk256_64_11",
+    "12": "fixed_chunk256_64_12",
+    "13": "fixed_chunk256_64_13",
+    "14": "fixed_chunk256_64_14",
+    "15": "fixed_chunk256_64_15",
+    "16": "fixed_chunk256_64_16",
+    "17": "fixed_chunk256_64_17",
+    "18": "fixed_chunk256_64_18"
+  }
+}

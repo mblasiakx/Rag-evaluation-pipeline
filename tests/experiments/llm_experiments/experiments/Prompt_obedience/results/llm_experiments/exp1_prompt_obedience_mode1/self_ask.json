@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "self_ask",
+  "model": "gemma3:1b",
+  "mode": 1,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": false,
+      "answer_pred": "Okay, let’s break down the question.\n\n1.  **What is the main topic of the question?**\n    The question asks about the establishment of Rome.\n\n2.  **What is the specific time period the question is asking about?**\n    The text doesn’t provide a specific date or timeframe.\n\n3.  **Based on the text, what is the answer to the question?**\n    I don’t know.\n\n4.  **Can you provide any further context or information that might help answer the question?**\n    I don’t know.\n\n**Final Answer:** I don’t know.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": false,
+      "answer_pred": "Here’s the breakdown of the question and answer:\n\n1.  **What is the main question?**\n2.  **When did the UEFA Champions League begin?**\n\nI don’t know.\n\n---\n\n**Final Answer:** The UEFA Champions League started in 1992.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": false,
+      "answer_pred": "Okay, let’s break down the question.\n\nHere’s the breakdown:\n\n1.  **What is the main question being asked?**\n    The question is asking who created Rome.\n\n2.  **What is the answer to the main question?**\n    I don’t know.\n\n---\n\n**Final Answer:** I don’t know.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

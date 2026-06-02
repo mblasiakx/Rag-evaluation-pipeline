@@ -1,0 +1,17 @@
+[
+  {
+    "query": "When was Rome established?",
+    "context": "Rome was founded around 625 BC in the regions of ancient Italy known as Etruria and Latium.",
+    "answer": "Rome was established around 625 BC."
+  },
+  {
+    "query": "When did the UEFA Champions League start?",
+    "context": "The UEFA Champions League was introduced as a modern version of the European Cup and was first played during the 1992–1993 season.",
+    "answer": "The UEFA Champions League started in the 1992–1993 season."
+  },
+  {
+    "query": "Who created Rome?",
+    "context": "The city of Rome was initially formed by Latium villagers who joined together with settlers from the surrounding hills.",
+    "answer": "Rome was created by Latium villagers together with settlers from the surrounding hills."
+  }
+]

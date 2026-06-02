@@ -1,0 +1,41 @@
+{
+  "prompt": "instruction_based",
+  "model": "gemma3:1b",
+  "top_k": 5,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When Rome was established?",
+      "answer_gt": "Rome was established in 625 BC.",
+      "answer_pred": "Around 625 BC",
+      "f1": 0.2222222222222222,
+      "precision": 0.3333333333333333,
+      "recall": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "hallucination_rate": 0.0,
+      "coverage": 1.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "answer_gt": "UEFA Champions League started in the 1992–1993 season",
+      "answer_pred": "The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season.",
+      "f1": 0.30303030303030304,
+      "precision": 0.22727272727272727,
+      "recall": 0.625,
+      "faithfulness": 1.0,
+      "hallucination_rate": 0.0,
+      "coverage": 1.0
+    },
+    {
+      "query": "Who created Rome?",
+      "answer_gt": "Rome was created by Latium villagers joining with settlers from surrounding hills",
+      "answer_pred": "The text states that the city-state of Rome was initially formed by Latium villagers joining together with settlers from the surrounding hills in response to an Etruscan invasion.",
+      "f1": 0.55,
+      "precision": 0.4230769230769231,
+      "recall": 0.9166666666666666,
+      "faithfulness": 0.9230769230769231,
+      "hallucination_rate": 0.07692307692307693,
+      "coverage": 0.9230769230769231
+    }
+  ]
+}

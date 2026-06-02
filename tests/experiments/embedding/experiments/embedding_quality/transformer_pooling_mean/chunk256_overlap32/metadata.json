@@ -1,0 +1,34 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk256_32_0",
+      "doc_id": "Lyon",
+      "start_char": 0,
+      "end_char": 256
+    },
+    {
+      "chunk_id": "fixed_chunk256_32_1",
+      "doc_id": "Lyon",
+      "start_char": 224,
+      "end_char": 480
+    },
+    {
+      "chunk_id": "fixed_chunk256_32_2",
+      "doc_id": "Lyon",
+      "start_char": 448,
+      "end_char": 704
+    },
+    {
+      "chunk_id": "fixed_chunk256_32_3",
+      "doc_id": "Lyon",
+      "start_char": 672,
+      "end_char": 928
+    },
+    {
+      "chunk_id": "fixed_chunk256_32_4",
+      "doc_id": "Lyon",
+      "start_char": 896,
+      "end_char": 1020
+    }
+  ]
+}

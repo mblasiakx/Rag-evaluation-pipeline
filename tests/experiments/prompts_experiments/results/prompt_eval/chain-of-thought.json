@@ -1,0 +1,41 @@
+{
+  "prompt": "chain-of-thought",
+  "model": "gemma3:1b",
+  "top_k": 5,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When Rome was established?",
+      "answer_gt": "Rome was established in 625 BC.",
+      "answer_pred": "Okay, let's break this down step-by-step to arrive at the answer.\n\n**1. Understanding the Question:**\n\nThe question asks us to determine the year Rome was established.  This is a historical question that requires us to look for historical records and establish a timeline.\n\n**2. Research & Key Historical Information:**\n\n*   **Legendary Founding:** The traditional story of Rome's founding is linked to Romulus and Remus. According to this legend, Romulus killed the existing She-Wolf and founded Rome on a hill.\n*   **Historical Records:**  Archaeological evidence and historical texts from the Roman period (roughly 753 BC to 476 AD) provide clues about the beginnings of Rome's settlement.\n*   **Early Roman History:**  The earliest written records from this period (like the *Res Gestae* of Tacitus) suggest that Rome began as a small settlement around 753 BC.\n\n**3. Determining the Establishment Date:**\n\n*   **753 BC:**  The earliest known evidence points to Rome's beginnings as a settlement around 753 BC. This is the generally accepted date.\n\n**Answer:**\n\nRome was established in **753 BC**.\n\n---\n\n**End of Response**",
+      "f1": 0.056179775280898875,
+      "precision": 0.046296296296296294,
+      "recall": 0.8333333333333334,
+      "faithfulness": 0.2037037037037037,
+      "hallucination_rate": 0.7962962962962963,
+      "coverage": 0.2037037037037037
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "answer_gt": "UEFA Champions League started in the 1992–1993 season",
+      "answer_pred": "Okay, let's break this down step-by-step:\n\n1. **Understanding the Question:** The question asks for the *start date* of the UEFA Champions League.\n\n2. **Researching the History:** The UEFA Champions League was established in 1992.\n\n3. **Determining the Start Date:** Therefore, the UEFA Champions League officially began on **May 12, 1992**.\n\n**Answer:** May 12, 1992",
+      "f1": 0.16129032258064516,
+      "precision": 0.12195121951219512,
+      "recall": 0.625,
+      "faithfulness": 0.21951219512195122,
+      "hallucination_rate": 0.7804878048780488,
+      "coverage": 0.21951219512195122
+    },
+    {
+      "query": "Who created Rome?",
+      "answer_gt": "Rome was created by Latium villagers joining with settlers from surrounding hills",
+      "answer_pred": "Okay, let's break this down step-by-step.\n\n**1. Understanding the Question**\n\nThe question is asking who *created* Rome. It’s not about who *built* Rome, but rather who *founded* it or initiated its development.  The term \"created\" implies a foundational role, not necessarily a single individual.\n\n**2. Historical Context - The Founding of Rome**\n\nRome wasn’t built overnight. It evolved over centuries through a complex process of settlement, conquest, and political development.  The story of its founding is more nuanced than a single person.\n\n**3. Key Figures and Contributing Factors**\n\n* **Romulus and Remus:** The most traditional story attributes the founding of Rome to Romulus and his twin brother Remus. Legend says they were abandoned and raised by a she-wolf. This is a foundational myth, but it’s important to note it’s a narrative, not historical fact.\n* **Early Settlements:**  The earliest inhabitants of Rome were likely Celtic tribes who settled in the area around the Palatine Hill.\n* **Romulus's Role:** Romulus is traditionally credited as the first king of Rome. He is said to have killed his brother Remus in a dispute and established the city.\n* **Later Kings and Political Developments:**  After Romulus, Rome was ruled by various kings, and the city gradually developed through a series of political and military struggles.\n\n**4. Conclusion**\n\nTherefore, rather than a single creator, Rome was *founded* by a group of individuals – primarily Romulus and his successors – through a process of settlement, governance, and gradual development over many centuries.  It wasn't a single person who \"created\" Rome; it was a gradual evolution of a settlement.\n\n**Answer:**\n\nThe question of who created Rome is complex and doesn't have a simple answer.  It was *founded* by a group of individuals, primarily through the actions of Romulus and his successors, over a long period of time.  It wasn't created by a single person.",
+      "f1": 0.025078369905956115,
+      "precision": 0.023952095808383235,
+      "recall": 0.3333333333333333,
+      "faithfulness": 0.1377245508982036,
+      "hallucination_rate": 0.8622754491017964,
+      "coverage": 0.1377245508982036
+    }
+  ]
+}

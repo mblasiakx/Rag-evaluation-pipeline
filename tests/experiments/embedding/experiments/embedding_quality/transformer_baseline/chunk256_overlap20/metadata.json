@@ -1,0 +1,100 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk256_20_0",
+      "doc_id": "metrics_test1",
+      "start_char": 0,
+      "end_char": 256
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_1",
+      "doc_id": "metrics_test1",
+      "start_char": 236,
+      "end_char": 492
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_2",
+      "doc_id": "metrics_test1",
+      "start_char": 472,
+      "end_char": 728
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_3",
+      "doc_id": "metrics_test1",
+      "start_char": 708,
+      "end_char": 964
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_4",
+      "doc_id": "metrics_test1",
+      "start_char": 944,
+      "end_char": 1200
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_5",
+      "doc_id": "metrics_test1",
+      "start_char": 1180,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_6",
+      "doc_id": "metrics_test1",
+      "start_char": 1416,
+      "end_char": 1672
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_7",
+      "doc_id": "metrics_test1",
+      "start_char": 1652,
+      "end_char": 1908
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_8",
+      "doc_id": "metrics_test1",
+      "start_char": 1888,
+      "end_char": 2144
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_9",
+      "doc_id": "metrics_test1",
+      "start_char": 2124,
+      "end_char": 2380
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_10",
+      "doc_id": "metrics_test1",
+      "start_char": 2360,
+      "end_char": 2616
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_11",
+      "doc_id": "metrics_test1",
+      "start_char": 2596,
+      "end_char": 2852
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_12",
+      "doc_id": "metrics_test1",
+      "start_char": 2832,
+      "end_char": 3088
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_13",
+      "doc_id": "metrics_test1",
+      "start_char": 3068,
+      "end_char": 3324
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_14",
+      "doc_id": "metrics_test1",
+      "start_char": 3304,
+      "end_char": 3560
+    },
+    {
+      "chunk_id": "fixed_chunk256_20_15",
+      "doc_id": "metrics_test1",
+      "start_char": 3540,
+      "end_char": 3566
+    }
+  ]
+}

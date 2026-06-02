@@ -1,0 +1,52 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "semantic_chunk256_0_0",
+      "doc_id": "Lyon",
+      "start_char": 0,
+      "end_char": 90
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_1",
+      "doc_id": "Lyon",
+      "start_char": 91,
+      "end_char": 228
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_2",
+      "doc_id": "Lyon",
+      "start_char": 229,
+      "end_char": 423
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_3",
+      "doc_id": "Lyon",
+      "start_char": 424,
+      "end_char": 521
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_4",
+      "doc_id": "Lyon",
+      "start_char": 522,
+      "end_char": 623
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_5",
+      "doc_id": "Lyon",
+      "start_char": 624,
+      "end_char": 736
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_6",
+      "doc_id": "Lyon",
+      "start_char": 737,
+      "end_char": 915
+    },
+    {
+      "chunk_id": "semantic_chunk256_0_7",
+      "doc_id": "Lyon",
+      "start_char": 916,
+      "end_char": 1017
+    }
+  ]
+}

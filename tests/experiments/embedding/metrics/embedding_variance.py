@@ -1,0 +1,4 @@
+import numpy as np                                                                                                                                                                        
+                                                                                                                                                                                            
+def compute_embedding_variance(embeddings: np.ndarray) -> float:                                                                                                                          
+      return float(np.mean(np.var(embeddings, axis=0)))  

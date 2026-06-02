@@ -8,14 +8,26 @@ venv/
 # Python bytecode
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
 
 # OS files
 .DS_Store
+Thumbs.db
 
 # IDE configs
 .vscode/
 .idea/
 
-# Evaluation results and outputs
-#evaluation/results/
-*.cs
+# Pytest
+.pytest_cache/
+
+# MLflow tracking data — reproduce by running scripts/run_pipeline.py
+mlruns/
+
+# Tool outputs
+repomix-output.xml
+repomix.config.json
+
+# Evaluation results are intentionally tracked (experiment records)
+# evaluation/results/

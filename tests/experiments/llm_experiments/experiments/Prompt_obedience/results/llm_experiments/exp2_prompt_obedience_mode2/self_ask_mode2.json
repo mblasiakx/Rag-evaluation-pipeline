@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "self_ask_mode2",
+  "model": "gemma3:1b",
+  "mode": 2,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": true,
+      "answer_pred": "Okay, let’s break down this question.\n\nHere’s a breakdown of the question and my answer:\n\n**1. Sub-Questions:**\n\n*   What is the approximate date of Rome’s founding?\n*   In what geographical area was Rome established?\n\n**2. Answers:**\n\n*   **When was Rome established?** Approximately 625 BC.\n*   **In what geographical area was Rome established?** In the regions of ancient Italy known as Etruria and Latium.\n\n**3. Final Answer:**\n\nRome was established around 625 BC in the regions of ancient Italy known as Etruria and Latium.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": true,
+      "answer_pred": "Okay, let’s break down this question.\n\nHere’s a breakdown of the question and my answer:\n\n**1. Sub-Questions:**\n\n*   What was the original name of the competition before it became the UEFA Champions League?\n*   When did the UEFA Champions League begin to be played?\n\n**2. Answers:**\n\n*   The original name of the competition was the European Cup.\n*   The UEFA Champions League began during the 1992–1993 season.\n\n**3. Final Answer:**\n\nThe UEFA Champions League started during the 1992–1993 season.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": true,
+      "answer_pred": "Okay, let’s break down this question.\n\nHere’s a breakdown of the question and my answer:\n\n**1. Sub-Questions:**\n\n*   **What was the initial settlement that formed Rome?**\n*   **Who were the people who initially formed Rome?**\n\n**2. Answers:**\n\n*   **Initial settlement:** The city of Rome was initially formed by Latium villagers who joined together with settlers from the surrounding hills.\n*   **People who initially formed Rome:** Latium villagers.\n\n**3. Combined Answer:**\n\nThe city of Rome was initially formed by Latium villagers who joined together with settlers from the surrounding hills.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}
