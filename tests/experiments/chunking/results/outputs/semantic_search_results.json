@@ -1,0 +1,14 @@
+{
+  "chunk_size=256_overlap=0": {
+    "num_chunks": 8,
+    "metrics": {
+      "coherence": 1.0,
+      "topic_drift": 0.7623438686132431,
+      "chunk_entropy": 0.0,
+      "chunk_size_std": 39.69796684250431,
+      "chunk_size_mean": 126.25,
+      "boundary_quality": 1.0,
+      "inter_chunk_similarity": 0.34502548405102323
+    }
+  }
+}

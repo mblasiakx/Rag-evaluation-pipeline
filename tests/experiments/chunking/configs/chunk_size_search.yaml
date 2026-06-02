@@ -1,0 +1,23 @@
+experiment_name: 'chunk_size_search'
+
+chunker: 'fixed'
+
+params:
+  chunk_sizes: [128, 256, 512, 1024]
+  overlap: 20
+  language: 'en'
+
+query: 'History and geography of Lyon, France' # <-- nowe
+
+metrics:
+  - coherence
+  - topic_drift
+  - chunk_entropy
+  - chunk_size_std
+  - chunk_size_mean
+  - boundary_quality
+  - inter_chunk_similarity
+
+input_file: 'data/Lyon.txt'
+output_dir: 'tests/experiments/chunking/results/outputs/'
+output_chunks_path: 'tests/experiments/data/fixed_chunks/chunk{chunk_size}_overlap{overlap}.jsonl'

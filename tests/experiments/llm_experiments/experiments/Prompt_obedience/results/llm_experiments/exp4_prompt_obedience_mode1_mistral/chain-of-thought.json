@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "chain-of-thought",
+  "model": "mistral:7b",
+  "mode": 1,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": false,
+      "answer_pred": "To solve this question, we need to delve into ancient history. The city of Rome was traditionally founded on April 21, 753 BC according to Roman mythology. However, archaeological evidence suggests that a settlement at the site of Rome may have existed as early as the 9th or 8th century BC. But the official founding year recognized by Romans is 753 BC.\n\nSo, in response to your question, Rome was established in 753 BC according to Roman mythology and historical records.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "mistral:7b",
+      "prompt": "chain-of-thought",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": false,
+      "answer_pred": "The UEFA Champions League, originally known as the European Cup, was first contested in the 1955-1956 season. However, it wasn't until the 1992-1993 season that the tournament took on its current format and name, UEFA Champions League.\n\nHere is a step-by-step breakdown of the evolution of the competition:\n\n1. The European Cup was introduced in 1955 as a single-tier continental club football competition organized by UEFA for the champion clubs of Europe's domestic leagues.\n2. In 1971, the UEFA Cup Winners' Cup and the UEFA Cup (later renamed UEFA Europa League) were added to provide more opportunities for European clubs to compete in international competitions.\n3. In 1992, the UEFA Champions League was rebranded from the European Cup, with a new format that included group stages and knockout rounds, replacing the previous single-elimination tournament.\n4. Since then, the competition has undergone several changes in format, but it has always been the premier club football competition in Europe for top-tier clubs.\n\nSo, to answer your question, the UEFA Champions League started in 1955 as the European Cup and took its current name and format in 1992-1993.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "mistral:7b",
+      "prompt": "chain-of-thought",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": false,
+      "answer_pred": "The city of Rome was not created by an individual in the traditional sense. Instead, it was founded around 753 BC by a group of Italic people known as the Latins under their legendary first king, Romulus. However, the origins of Rome can be traced back even further to the Proto-Italic and Villanovan cultures that inhabited the area before the founding of the city. So, in essence, one could say that Rome was created by the collective efforts of these early Italian communities over a long period of time.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "mistral:7b",
+      "prompt": "chain-of-thought",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

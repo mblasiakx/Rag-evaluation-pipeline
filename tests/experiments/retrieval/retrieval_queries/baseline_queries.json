@@ -1,0 +1,66 @@
+[
+  {
+    "query_id": "q1",
+    "query": "When Rome was established?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 20, "end_char": 108 }]
+  },
+  {
+    "query_id": "q2",
+    "query": "When Rome became Republic?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 1666, "end_char": 1710 }]
+  },
+  {
+    "query_id": "q3",
+    "query": "What club should to to keep Champions league tropy forever?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 1368, "end_char": 1542 }]
+  },
+  {
+    "query_id": "q4",
+    "query": "What was before UEFA Champions League?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 802, "end_char": 934 }]
+  },
+
+  {
+    "query_id": "q5",
+    "query": "When UEFA Champions League was played for the first time?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 802, "end_char": 934 }]
+  },
+  {
+    "query_id": "q6",
+    "query": "What hapened to Lyon?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [
+      { "start_char": 2535, "end_char": 2625 },
+      { "start_char": 100, "end_char": 157 }
+    ]
+  },
+
+  {
+    "query_id": "q7",
+    "query": "Which coutry is Lyon from?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [
+      { "start_char": 2535, "end_char": 2625 },
+      { "start_char": 2626, "end_char": 2763 }
+    ]
+  },
+
+  {
+    "query_id": "q8",
+    "query": "Who is owner of Lyon?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 2764, "end_char": 2958 }]
+  },
+
+  {
+    "query_id": "q9",
+    "query": "Who hope to play in Europa League next season?",
+    "doc_id": "metrics_test1",
+    "relevant_offsets": [{ "start_char": 3159, "end_char": 3271 }]
+  }
+]

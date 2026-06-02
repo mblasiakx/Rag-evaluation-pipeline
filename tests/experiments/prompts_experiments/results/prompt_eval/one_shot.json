@@ -1,0 +1,41 @@
+{
+  "prompt": "one_shot",
+  "model": "gemma3:1b",
+  "top_k": 5,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When Rome was established?",
+      "answer_gt": "Rome was established in 625 BC.",
+      "answer_pred": "“Rome was established in 753 BC.”",
+      "f1": 0.5,
+      "precision": 0.5,
+      "recall": 0.5,
+      "faithfulness": 0.5,
+      "hallucination_rate": 0.5,
+      "coverage": 0.5
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "answer_gt": "UEFA Champions League started in the 1992–1993 season",
+      "answer_pred": "“The UEFA Champions League began in 1992.”",
+      "f1": 0.5333333333333333,
+      "precision": 0.5714285714285714,
+      "recall": 0.5,
+      "faithfulness": 0.5714285714285714,
+      "hallucination_rate": 0.42857142857142855,
+      "coverage": 0.5714285714285714
+    },
+    {
+      "query": "Who created Rome?",
+      "answer_gt": "Rome was created by Latium villagers joining with settlers from surrounding hills",
+      "answer_pred": "“Rome was founded by the Romans.”",
+      "f1": 0.2222222222222222,
+      "precision": 0.3333333333333333,
+      "recall": 0.16666666666666666,
+      "faithfulness": 0.6666666666666666,
+      "hallucination_rate": 0.3333333333333333,
+      "coverage": 0.6666666666666666
+    }
+  ]
+}

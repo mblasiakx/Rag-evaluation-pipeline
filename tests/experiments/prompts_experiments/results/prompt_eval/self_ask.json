@@ -1,0 +1,41 @@
+{
+  "prompt": "self_ask",
+  "model": "gemma3:1b",
+  "top_k": 5,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When Rome was established?",
+      "answer_gt": "Rome was established in 625 BC.",
+      "answer_pred": "Here’s the breakdown of the question and the answer:\n\n1.  **When Rome was established?**\n    *   The text states that Rome was established “in the 1992-1993 season.”\n\n2.  **What is the context of the UEFA Champions League?**\n    *   The text states that it “came about as a new version of the European Cup” and was played in the 1992-1993 season.\n\n3.  **What does the text say about the establishment of Rome?**\n    *   The text states that Rome was founded around 625 BC in the areas of ancient Italy known as Etruria and Latium.\n\n4.  **What does the text say about the establishment of Rome?**\n    *   The text states that the Romans established the “Twelve Tables” in 451 BC.\n\n**Final Answer:**\nRome was established around 625 BC in the areas of ancient Italy known as Etruria and Latium.",
+      "f1": 0.08450704225352113,
+      "precision": 0.0967741935483871,
+      "recall": 1.0,
+      "faithfulness": 0.5161290322580645,
+      "hallucination_rate": 0.4838709677419355,
+      "coverage": 0.5161290322580645
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "answer_gt": "UEFA Champions League started in the 1992–1993 season",
+      "answer_pred": "Here’s the breakdown of the question and answer:\n\n1.  **When did the UEFA Champions League start?**\n    The text states that the UEFA Champions League \"came about as a new version of the European Cup and was played for the first time in the 1992-1993 season.\"\n\n2.  **What is the significance of the UEFA Champions League?**\n    The text states that it is “the most prestigious club tournament in football, Champions League has become even more popular with the introduction of a mini-league group stage system.”\n\n3.  **What is the text saying about Rome?**\n    The text says that “Archaeological evidence indicates that a great deal of change and unification took place around 600 BC which likely led to the establishment of Rome as a true city.”\n\n4.  **What is the text saying about dogs?**\n    The text says “Dogs are crazy.”\n\n**Final Answer:** When did the UEFA Champions League start?",
+      "f1": 0.06451612903225806,
+      "precision": 0.056179775280898875,
+      "recall": 0.625,
+      "faithfulness": 0.6404494382022472,
+      "hallucination_rate": 0.3595505617977528,
+      "coverage": 0.6404494382022472
+    },
+    {
+      "query": "Who created Rome?",
+      "answer_gt": "Rome was created by Latium villagers joining with settlers from surrounding hills",
+      "answer_pred": "Here’s the breakdown of the question and answer:\n\n1.  **Who created Rome?**\n    The text states that Latium villagers joined with settlers from the surrounding hills in response to an Etruscan invasion. This suggests that the city was formed by the combination of Latium villagers and settlers.\n\n2.  **When was Rome founded?**\n    The text states that Rome was founded around 625 BC in the areas of ancient Italy known as Etruria and Latium.\n\n3.  **What is the UEFA Champions League?**\n    The text states that it came about as a new version of the European Cup and was played for the first time in the 1992-1993 season.\n\n4.  **What is the significance of the text?**\n    The text discusses the historical context of Rome's formation, mentioning the Etruscan invasion and the establishment of the Roman Republic.\n\n**Final Answer:**\nThe text indicates that the city was formed by the combination of Latium villagers and settlers in response to an Etruscan invasion.",
+      "f1": 0.1301775147928994,
+      "precision": 0.12643678160919541,
+      "recall": 0.9166666666666666,
+      "faithfulness": 0.5632183908045977,
+      "hallucination_rate": 0.4367816091954023,
+      "coverage": 0.5632183908045977
+    }
+  ]
+}

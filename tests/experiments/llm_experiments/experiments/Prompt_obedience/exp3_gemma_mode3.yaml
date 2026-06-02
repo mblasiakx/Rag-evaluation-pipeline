@@ -1,0 +1,38 @@
+experiment_name: 'Prompt Sensitivity × Instruction Following'
+description: 'Experiment with Gemma model and must use only context.'
+
+model:
+  provider: local
+  name: 'gemma3:1b'
+  temperature: 0.0
+  max_tokens: 512
+
+dataset:
+  path: 'llm_experiments/datasets/Prompt_obedience_questions/exp1_gemma_mode1.json'
+  question_field: 'query'
+  answer_field: 'answer'
+
+prompts:
+  path: 'prompts_experiments/prompts/variants/mode3'
+  variants: 1
+  types:
+    - chain-of-thought
+    - few_shot
+    - instruction_based
+    - one_shot
+    - role_based
+    - self_ask
+    - structured_output
+    - zero_shot
+
+mode: 3
+
+metrics:
+  - instruction_compliance_rate
+  - semantic_dispersion
+  - instruction_features_compliance
+
+results:
+  output_dir: 'llm_experiments/experiments/Prompt_obedience/results/llm_experiments/exp3_prompt_obedience_mode3/'
+  save_json: true
+  save_csv: true

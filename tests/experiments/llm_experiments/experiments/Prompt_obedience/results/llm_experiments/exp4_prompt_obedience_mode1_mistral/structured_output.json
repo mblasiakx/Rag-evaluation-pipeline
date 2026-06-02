@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "structured_output",
+  "model": "mistral:7b",
+  "mode": 1,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": false,
+      "answer_pred": "{\n  \"answer\": null,\n  \"evidence\": \"The text provided does not contain information about when Rome was established.\",\n  \"confidence\": 1.0\n}",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "mistral:7b",
+      "prompt": "structured_output",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": false,
+      "answer_pred": "{\n  \"answer\": \"The text does not provide a specific year for when the UEFA Champions League started.\",\n  \"evidence\": \"The text does not mention a specific year for the start of the UEFA Champions League.\",\n  \"confidence\": 1.0\n}",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "mistral:7b",
+      "prompt": "structured_output",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": false,
+      "answer_pred": "{\n  \"answer\": null,\n  \"evidence\": \"The text does not provide information about who created Rome.\",\n  \"confidence\": 1.0\n}",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "mistral:7b",
+      "prompt": "structured_output",
+      "mode": 1,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

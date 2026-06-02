@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "self_ask_mode3",
+  "model": "gemma3:1b",
+  "mode": 3,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": true,
+      "answer_pred": "Here’s the answer based solely on the text:\n\n1.  Rome was founded around 625 BC.\n2.  Rome was established in the regions of ancient Italy known as Etruria and Latium.\n\nI don't know.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode3",
+      "mode": 3,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": true,
+      "answer_pred": "Here’s the answer based solely on the text:\n\n1.  The UEFA Champions League was introduced during the 1992–1993 season.\n2.  It was first played during that season.\n\n**Final Answer:** The UEFA Champions League started during the 1992–1993 season.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode3",
+      "mode": 3,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": true,
+      "answer_pred": "Here’s the breakdown of the question and answer:\n\n1.  **Who created Rome?**\n    The text states that the city of Rome was initially formed by Latium villagers who joined with settlers from the surrounding hills. This indicates that the villagers created Rome.\n\n2.  **What was Latium?**\n    The text states that Latium was the area where the villagers joined together.\n\n3.  **What did the settlers from the surrounding hills do?**\n    The text states that settlers from the surrounding hills joined with the villagers.\n\n4.  **What was the initial formation of Rome?**\n    The text states that Rome was formed by Latium villagers who joined with settlers from the surrounding hills.\n\n**Final Answer:** The villagers created Rome.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "gemma3:1b",
+      "prompt": "self_ask_mode3",
+      "mode": 3,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

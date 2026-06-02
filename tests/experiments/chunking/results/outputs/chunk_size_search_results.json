@@ -1,0 +1,50 @@
+{
+  "chunk_size=128_overlap=20": {
+    "num_chunks": 10,
+    "metrics": {
+      "coherence": 0.3592724859714508,
+      "topic_drift": 0.7955904088914394,
+      "chunk_entropy": 0.8,
+      "chunk_size_std": 25.298221281347036,
+      "chunk_size_mean": 120,
+      "boundary_quality": 0.1,
+      "inter_chunk_similarity": 0.45823564463191563
+    }
+  },
+  "chunk_size=256_overlap=20": {
+    "num_chunks": 5,
+    "metrics": {
+      "coherence": 0.46705946922302244,
+      "topic_drift": 0.8240235820412636,
+      "chunk_entropy": 0.7999999999999999,
+      "chunk_size_std": 80.49844718999243,
+      "chunk_size_mean": 220,
+      "boundary_quality": 0.2,
+      "inter_chunk_similarity": 0.35037147253751755
+    }
+  },
+  "chunk_size=512_overlap=20": {
+    "num_chunks": 3,
+    "metrics": {
+      "coherence": 0.569195399681727,
+      "topic_drift": 0.7777823954820633,
+      "chunk_entropy": 0.6355414494059825,
+      "chunk_size_std": 274.81872813426185,
+      "chunk_size_mean": 353.3333333333333,
+      "boundary_quality": 0.3333333333333333,
+      "inter_chunk_similarity": 0.5653417706489563
+    }
+  },
+  "chunk_size=1024_overlap=20": {
+    "num_chunks": 2,
+    "metrics": {
+      "coherence": 0.6964762359857559,
+      "topic_drift": 0.8059163317084312,
+      "chunk_entropy": 0.4925284111607538,
+      "chunk_size_std": 709.9352083112938,
+      "chunk_size_mean": 518,
+      "boundary_quality": 1.0,
+      "inter_chunk_similarity": 0.12931954860687256
+    }
+  }
+}

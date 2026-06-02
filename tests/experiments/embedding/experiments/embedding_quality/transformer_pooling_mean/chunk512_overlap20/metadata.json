@@ -1,0 +1,22 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk512_20_0",
+      "doc_id": "Lyon",
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_1",
+      "doc_id": "Lyon",
+      "start_char": 492,
+      "end_char": 1004
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_2",
+      "doc_id": "Lyon",
+      "start_char": 984,
+      "end_char": 1020
+    }
+  ]
+}

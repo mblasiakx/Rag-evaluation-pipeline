@@ -1,0 +1,142 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk256_96_0",
+      "doc_id": "metrics_test1",
+      "start_char": 0,
+      "end_char": 256
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_1",
+      "doc_id": "metrics_test1",
+      "start_char": 160,
+      "end_char": 416
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_2",
+      "doc_id": "metrics_test1",
+      "start_char": 320,
+      "end_char": 576
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_3",
+      "doc_id": "metrics_test1",
+      "start_char": 480,
+      "end_char": 736
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_4",
+      "doc_id": "metrics_test1",
+      "start_char": 640,
+      "end_char": 896
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_5",
+      "doc_id": "metrics_test1",
+      "start_char": 800,
+      "end_char": 1056
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_6",
+      "doc_id": "metrics_test1",
+      "start_char": 960,
+      "end_char": 1216
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_7",
+      "doc_id": "metrics_test1",
+      "start_char": 1120,
+      "end_char": 1376
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_8",
+      "doc_id": "metrics_test1",
+      "start_char": 1280,
+      "end_char": 1536
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_9",
+      "doc_id": "metrics_test1",
+      "start_char": 1440,
+      "end_char": 1696
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_10",
+      "doc_id": "metrics_test1",
+      "start_char": 1600,
+      "end_char": 1856
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_11",
+      "doc_id": "metrics_test1",
+      "start_char": 1760,
+      "end_char": 2016
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_12",
+      "doc_id": "metrics_test1",
+      "start_char": 1920,
+      "end_char": 2176
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_13",
+      "doc_id": "metrics_test1",
+      "start_char": 2080,
+      "end_char": 2336
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_14",
+      "doc_id": "metrics_test1",
+      "start_char": 2240,
+      "end_char": 2496
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_15",
+      "doc_id": "metrics_test1",
+      "start_char": 2400,
+      "end_char": 2656
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_16",
+      "doc_id": "metrics_test1",
+      "start_char": 2560,
+      "end_char": 2816
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_17",
+      "doc_id": "metrics_test1",
+      "start_char": 2720,
+      "end_char": 2976
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_18",
+      "doc_id": "metrics_test1",
+      "start_char": 2880,
+      "end_char": 3136
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_19",
+      "doc_id": "metrics_test1",
+      "start_char": 3040,
+      "end_char": 3296
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_20",
+      "doc_id": "metrics_test1",
+      "start_char": 3200,
+      "end_char": 3456
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_21",
+      "doc_id": "metrics_test1",
+      "start_char": 3360,
+      "end_char": 3566
+    },
+    {
+      "chunk_id": "fixed_chunk256_96_22",
+      "doc_id": "metrics_test1",
+      "start_char": 3520,
+      "end_char": 3566
+    }
+  ]
+}

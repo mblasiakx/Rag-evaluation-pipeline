@@ -1,0 +1,52 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk512_20_0",
+      "doc_id": "metrics_test1",
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_1",
+      "doc_id": "metrics_test1",
+      "start_char": 492,
+      "end_char": 1004
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_2",
+      "doc_id": "metrics_test1",
+      "start_char": 984,
+      "end_char": 1496
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_3",
+      "doc_id": "metrics_test1",
+      "start_char": 1476,
+      "end_char": 1988
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_4",
+      "doc_id": "metrics_test1",
+      "start_char": 1968,
+      "end_char": 2480
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_5",
+      "doc_id": "metrics_test1",
+      "start_char": 2460,
+      "end_char": 2972
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_6",
+      "doc_id": "metrics_test1",
+      "start_char": 2952,
+      "end_char": 3464
+    },
+    {
+      "chunk_id": "fixed_chunk512_20_7",
+      "doc_id": "metrics_test1",
+      "start_char": 3444,
+      "end_char": 3566
+    }
+  ]
+}

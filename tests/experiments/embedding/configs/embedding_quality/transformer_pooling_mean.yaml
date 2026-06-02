@@ -1,0 +1,28 @@
+experiment_name: 'transformer_pooling_mean'
+
+paths:
+  chunks_dirs:
+    - 'tests/experiments/data/fixed_chunks/'
+    - 'tests/experiments/data/fixed_overlap/'
+    - 'tests/experiments/data/semantic/'
+  save_root: 'tests/experiments/embedding/experiments/embedding_quality/transformer_pooling_mean'
+
+model:
+  name: 'sentence-transformers/all-MiniLM-L6-v2'
+  pooling: 'mean'
+  normalize: true
+  device: 'cuda'
+  batch_size: 32
+
+metrics:
+  compute_intra_similarity: true
+  compute_knn_neighbors: true
+  k_neighbors: 4
+  compute_anisotropy: false        # przy 1 dok. = intra_similarity, redundantna
+  compute_embedding_variance: true
+  compute_recall_at_k: false       # przy 1 dok. zawsze 1.0, bez informacji
+  compute_sequential_similarity: true
+
+outputs:
+  save_embeddings: true
+  save_similarity_matrix: false

@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "chain-of-thought_mode2",
+  "model": "gemma3:1b",
+  "mode": 2,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": true,
+      "answer_pred": "Here's how we can determine when Rome was established, step-by-step:\n\n1. **Identify the key information:** The question asks for the year Rome was founded.\n2. **Analyze the provided context:** The context states that Rome was founded around 625 BC in the regions of Etruria and Latium.\n3. **Deduce the date:**  Since the founding is around 625 BC, and the region is Etruria and Latium, we can confidently conclude that Rome was established around 625 BC.\n\n**Answer:** 625 BC",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "gemma3:1b",
+      "prompt": "chain-of-thought_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": true,
+      "answer_pred": "Here’s how we can determine when the UEFA Champions League started:\n\n1. **Identify the initial event:** The UEFA Champions League was established as a new competition in 1992-1993.\n\n2. **Determine the starting year:** This means the competition began in the year 1992.\n\nTherefore, the UEFA Champions League started in **1992**.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "gemma3:1b",
+      "prompt": "chain-of-thought_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": true,
+      "answer_pred": "Okay, let's break this down step-by-step:\n\n1. **The Context Points to a Local Origin:** The provided context states that Rome was initially formed by Latium villagers. This immediately suggests that Rome wasn't created by a single individual or group, but rather emerged from a localized settlement.\n\n2. **Latium as the Foundation:** Latium is the name of the region where Rome originated.  It was a settlement of villagers.\n\n3. **The Process of Formation:** The villagers joined together, and settlers from the surrounding hills joined them. This indicates a gradual process of settlement and growth, rather than a single creator.\n\n4. **Conclusion:** Therefore, Rome was created by the collective efforts of the villagers of Latium, and the subsequent settlement of the surrounding hills.\n\n**Answer:** The villagers of Latium created Rome.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "gemma3:1b",
+      "prompt": "chain-of-thought_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

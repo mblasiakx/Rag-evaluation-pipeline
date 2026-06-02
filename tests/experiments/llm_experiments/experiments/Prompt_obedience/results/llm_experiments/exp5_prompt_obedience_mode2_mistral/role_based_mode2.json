@@ -1,0 +1,45 @@
+{
+  "experiment": "Prompt Sensitivity × Instruction Following",
+  "prompt": "role_based_mode2",
+  "model": "mistral:7b",
+  "mode": 2,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When was Rome established?",
+      "context_used": true,
+      "answer_pred": "Rome was established around 625 BC.",
+      "answer_gt": "Rome was established around 625 BC.",
+      "model": "mistral:7b",
+      "prompt": "role_based_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "context_used": true,
+      "answer_pred": "The UEFA Champions League started during the 1992-1993 season.",
+      "answer_gt": "The UEFA Champions League started in the 1992–1993 season.",
+      "model": "mistral:7b",
+      "prompt": "role_based_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    },
+    {
+      "query": "Who created Rome?",
+      "context_used": true,
+      "answer_pred": "The city of Rome was created by Latium villagers and settlers from the surrounding hills.",
+      "answer_gt": "Rome was created by Latium villagers together with settlers from the surrounding hills.",
+      "model": "mistral:7b",
+      "prompt": "role_based_mode2",
+      "mode": 2,
+      "semantic_dispersion": 0.0,
+      "instruction_compliance_rate": 1.0,
+      "instruction_features_compliance": 0.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "prompt": "structured_output",
+  "model": "gemma3:1b",
+  "top_k": 5,
+  "num_samples": 3,
+  "results": [
+    {
+      "query": "When Rome was established?",
+      "answer_gt": "Rome was established in 625 BC.",
+      "answer_pred": "```json\n{\n  \"answer\": \"Around 625 BC\",\n  \"evidence\": \"The text states 'Rome was founded around 625 BC in the areas of ancient Italy known as Etruria and Latium.'\",\n  \"confidence\": 1\n}\n```",
+      "f1": 0.16216216216216214,
+      "precision": 0.1,
+      "recall": 0.5,
+      "faithfulness": 0.5,
+      "hallucination_rate": 0.5,
+      "coverage": 0.5
+    },
+    {
+      "query": "When did the UEFA Champions League start?",
+      "answer_gt": "UEFA Champions League started in the 1992–1993 season",
+      "answer_pred": "```json\n{\n  \"answer\": \"The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season.\",\n  \"evidence\": \"The text states \\\"It is thought t the most prestigious club tournament in football, Champions League has become even more popular with the introduction of a mini-league group stage system.\\\"\",\n  \"confidence\": 1\n}\n```",
+      "f1": 0.14084507042253522,
+      "precision": 0.09433962264150944,
+      "recall": 0.625,
+      "faithfulness": 0.7358490566037735,
+      "hallucination_rate": 0.2641509433962264,
+      "coverage": 0.7358490566037735
+    },
+    {
+      "query": "Who created Rome?",
+      "answer_gt": "Rome was created by Latium villagers joining with settlers from surrounding hills",
+      "answer_pred": "```json\n{\n  \"answer\": \"The text states that the city-state of Rome was initially formed by Latium villagers joining together with settlers from the surrounding hills in response to an Etruscan invasion. It is unclear whether they could sound (c. 625 BC). Rome was founded around 625 BC in the areas of ancient Italy known as Etruria and Latium.The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season It is thought t\",\n  \"evidence\": \"The text states that 'It is thought that the city-state of Rome was initially formed by Latium villagers joining together with settlers from the surrounding hills in response to an Etruscan invasion.'\",\n  \"confidence\": 95\n}\n```",
+      "f1": 0.16296296296296298,
+      "precision": 0.14473684210526316,
+      "recall": 0.9166666666666666,
+      "faithfulness": 0.7763157894736842,
+      "hallucination_rate": 0.2236842105263158,
+      "coverage": 0.7763157894736842
+    }
+  ]
+}

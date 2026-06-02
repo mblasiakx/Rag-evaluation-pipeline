@@ -1,0 +1,27 @@
+name: config_A
+description: 'Fixed chunking (512/20), mean pooling, zero_shot'
+
+data:
+  files:
+    - 'data/Champions League.txt'
+  questions: 'data/questions/champions_league_qa.jsonl'
+
+chunking:
+  type: fixed
+  chunk_size: 512
+  overlap: 20
+
+embedding:
+  model: 'sentence-transformers/all-MiniLM-L6-v2'
+  pooling: mean
+  normalize: false
+
+retrieval:
+  k: 2
+
+generator:
+  model: "gemma3:1b"
+  temperature: 0.0
+
+prompt:
+  style: zero_shot

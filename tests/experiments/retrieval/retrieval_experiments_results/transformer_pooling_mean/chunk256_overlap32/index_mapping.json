@@ -1,0 +1,9 @@
+{
+  "faiss_id_to_chunk_id": {
+    "0": "fixed_chunk256_32_0",
+    "1": "fixed_chunk256_32_1",
+    "2": "fixed_chunk256_32_2",
+    "3": "fixed_chunk256_32_3",
+    "4": "fixed_chunk256_32_4"
+  }
+}

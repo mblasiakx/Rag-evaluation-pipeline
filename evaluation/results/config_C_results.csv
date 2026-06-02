@@ -1,0 +1,77 @@
+"user_input","retrieved_contexts","response","reference","faithfulness","answer_relevancy","context_precision","context_recall","completeness","formatted_contexts","latency_ms"
+"What tournament was before Champions League?","['The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season. Already established as the most prestigious club tournament in football, Champions League has become even more popular with', 'that Champions League and European League are accumulated.\n\nWhat distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t']","The Champions League was before the European Cup. The text states: “The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season.”","European Cup was tournament before Champions League.","1.0","0.8738317780465702","0.99999999995","1.0","0.8004","[1] The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season. Already established as the most prestigious club tournament in football, Champions League has become even more popular with
+[2] that Champions League and European League are accumulated.
+
+What distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t","1502"
+"Until what year was the European Cup played?","[' tournament five times or three times in a row (since the rule changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\n\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, ', 'that Champions League and European League are accumulated.\n\nWhat distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t']","According to the text, the European Cup was played from 1992 to 2008.","European Cup was played until 1992.","0.0","0.9704293902618771","0.9999999999","1.0","0.8753","[1] tournament five times or three times in a row (since the rule changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although,
+[2] that Champions League and European League are accumulated.
+
+What distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t","607"
+"Since when the Champions League started to be played?","['The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season. Already established as the most prestigious club tournament in football, Champions League has become even more popular with', '\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when statistics are presented for Champions League it is common that Champions League and European League are accumulated.\n\nWhat distinguish the Champions Leagu']","The Champions League started in 1992.
+","Champions League started to be played from 1992.","1.0","0.9668342425988298","0.99999999995","1.0","0.9614","[1] The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season. Already established as the most prestigious club tournament in football, Champions League has become even more popular with
+[2] If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when statistics are presented for Champions League it is common that Champions League and European League are accumulated.
+
+What distinguish the Champions Leagu","379"
+"What is a difference between Champions League and European Cup?","['\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when statistics are presented for Champions League it is common that Champions League and European League are accumulated.\n\nWhat distinguish the Champions Leagu', 'that Champions League and European League are accumulated.\n\nWhat distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t']","Here's a breakdown of the key differences between the Champions League and the European Cup, based on the provided context:
+
+**What is a difference between Champions League and European Cup?**
+
+*   **Group Stage:** The Champions League introduced a group stage in 1991, which is a significant difference from the earlier round-robin format used in the European Cup.
+
+**What distinguishes the Champions League from the European Cup?**
+
+*   **Focus on Group Play:** The Champions League emphasizes group play, while the European Cup traditionally used a round-robin format.
+
+**What distinguishes the Champions League from the European Cup?**
+
+*   **Group Stage:** The Champions League introduced a group stage, which is a key distinction.
+
+Let me know if you'd like me to elaborate on any of these points!","Champions League has different format that European Cup.","1.0","0.0","0.49999999995","1.0","0.6887","[1] If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when statistics are presented for Champions League it is common that Champions League and European League are accumulated.
+
+What distinguish the Champions Leagu
+[2] that Champions League and European League are accumulated.
+
+What distinguish the Champions League from European Cup is for many the group play instead of the round-robin format. The fact is, however, that a group stage was introduced already in 1991, but t","3439"
+"Which club has the most wins in the Champions League?","['chester United, Valencia and Liverpool have also lost the final more than once.\n\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club with 13 titles (6 and 7 in European Cup and Champions League respective', 'atches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\n\nFormat and participating teams\nIn the first edition (1992-1993), the tou']","According to the provided text, Real Madrid has the most wins in the Champions League with 13 titles.","Real Madrid has the most wins in the Champions League.","0.5","0.8683245658917377","0.9999999999","1.0","0.9049","[1] chester United, Valencia and Liverpool have also lost the final more than once.
+
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club with 13 titles (6 and 7 in European Cup and Champions League respective
+[2] atches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+
+Format and participating teams
+In the first edition (1992-1993), the tou","592"
+"How many times Real Madrid won European Cup?","['chester United, Valencia and Liverpool have also lost the final more than once.\n\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club with 13 titles (6 and 7 in European Cup and Champions League respective', ' tournament five times or three times in a row (since the rule changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\n\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, ']","According to the provided text, Real Madrid won the European Cup **five** times.","Real Madrid won European Cup 6 times.","0.0","0.9915364721774589","0.9999999999","1.0","0.8976","[1] chester United, Valencia and Liverpool have also lost the final more than once.
+
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club with 13 titles (6 and 7 in European Cup and Champions League respective
+[2] tournament five times or three times in a row (since the rule changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although,","464"
+"How many years after first edition of Champions League tournament was extended to 16 teams?","['on, since when the numbers have increased.\n\nIn the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams (excluding the qualification). The format consisted of a group phase with four groups followed by three knockout stage', ' to include more clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be kept permanently by a club that win the tournament five times or three times in a row (since the rule changed in 2008 it is only a repl']","According to the context, the tournament was extended to 16 teams since **1994-1995**.
+","Champions League was extended to 16 teams after 2 years.","1.0","0.9396919198473809","0.0","0.0","0.6612","[1] on, since when the numbers have increased.
+
+In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams (excluding the qualification). The format consisted of a group phase with four groups followed by three knockout stage
+[2] to include more clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be kept permanently by a club that win the tournament five times or three times in a row (since the rule changed in 2008 it is only a repl","695"
+"How many teams participated in the first edition of the Champions League?","['on, since when the numbers have increased.\n\nIn the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams (excluding the qualification). The format consisted of a group phase with four groups followed by three knockout stage', 'ght teams were playing in two groups followed by a final between the group winners. The first season included in total 36 participating clubs in the qualification, since when the numbers have increased.\n\nIn the third edition of the Champions League (1994-1']","36","In the first edition of the Champions League 8 teams were playing.","0.0","0.749249375320209","0.0","0.0","0.063","[1] on, since when the numbers have increased.
+
+In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams (excluding the qualification). The format consisted of a group phase with four groups followed by three knockout stage
+[2] ght teams were playing in two groups followed by a final between the group winners. The first season included in total 36 participating clubs in the qualification, since when the numbers have increased.
+
+In the third edition of the Champions League (1994-1","173"
+"What is a Real Madrid?","[""s a sensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two years later, Leeds reached the semi-finals, but wasn't near to beat Valencia that time. Villa Real is another club that is not familiar to be seen at t"", 'near to beat Valencia that time. Villa Real is another club that is not familiar to be seen at the final steps in the biggest events; they were only one goal down on aggregation against Arsenal in the semi-finals in 2006.\n\nMost times runners-up are Juventu']","The text doesn’t provide information about Real Madrid. It focuses on the history of Leeds United and Villa Real.","Real Madrid is a football team.","1.0","0.0","0.0","0.0","0.667","[1] s a sensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two years later, Leeds reached the semi-finals, but wasn't near to beat Valencia that time. Villa Real is another club that is not familiar to be seen at t
+[2] near to beat Valencia that time. Villa Real is another club that is not familiar to be seen at the final steps in the biggest events; they were only one goal down on aggregation against Arsenal in the semi-finals in 2006.
+
+Most times runners-up are Juventu","610"
+"How many teams from Poland won Champions League?","['ght teams were playing in two groups followed by a final between the group winners. The first season included in total 36 participating clubs in the qualification, since when the numbers have increased.\n\nIn the third edition of the Champions League (1994-1', 'wn on aggregation against Arsenal in the semi-finals in 2006.\n\nMost times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester United, Valencia and Liverpool have also lost the final more than once.\n\nIf Champions Le']","The text doesn’t provide information about the number of teams from Poland who won the Champions League. It only discusses the participation of clubs from different countries in the competition.","No team from Poland won Champions League.","0.5","0.0","0.0","0.0","0.7272","[1] ght teams were playing in two groups followed by a final between the group winners. The first season included in total 36 participating clubs in the qualification, since when the numbers have increased.
+
+In the third edition of the Champions League (1994-1
+[2] wn on aggregation against Arsenal in the semi-finals in 2006.
+
+Most times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester United, Valencia and Liverpool have also lost the final more than once.
+
+If Champions Le","821"
+"What is the area of Canada?","['lsinki and Bangor City in the second qualification round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are c', 'the best performing club with 13 titles (6 and 7 in European Cup and Champions League respectively).\n\nRecords\nThe largest victory margin happened between HJK Helsinki and Bangor City in the second qualification round in 2011–12. If the qualification phase ']","The text focuses on football records and comparisons. It doesn’t contain any information about Canada’s area.","Canada has 9,984,670 square kilometers.","1.0","0.0","0.0","0.0","0.3413","[1] lsinki and Bangor City in the second qualification round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are c
+[2] the best performing club with 13 titles (6 and 7 in European Cup and Champions League respectively).
+
+Records
+The largest victory margin happened between HJK Helsinki and Bangor City in the second qualification round in 2011–12. If the qualification phase","593"

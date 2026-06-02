@@ -1,0 +1,28 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "fixed_chunk1024_20_0",
+      "doc_id": "metrics_test1",
+      "start_char": 0,
+      "end_char": 1024
+    },
+    {
+      "chunk_id": "fixed_chunk1024_20_1",
+      "doc_id": "metrics_test1",
+      "start_char": 1004,
+      "end_char": 2028
+    },
+    {
+      "chunk_id": "fixed_chunk1024_20_2",
+      "doc_id": "metrics_test1",
+      "start_char": 2008,
+      "end_char": 3032
+    },
+    {
+      "chunk_id": "fixed_chunk1024_20_3",
+      "doc_id": "metrics_test1",
+      "start_char": 3012,
+      "end_char": 3566
+    }
+  ]
+}

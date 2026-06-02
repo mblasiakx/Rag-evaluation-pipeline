@@ -1,0 +1,27 @@
+name: config_C
+description: "Fixed chunking (256/96), mean pooling, TBD prompt"
+
+data:
+  files:
+    - "data/Champions League.txt"
+  questions: "data/questions/champions_league_qa.jsonl"
+
+chunking:
+  type: fixed
+  chunk_size: 256
+  overlap: 96
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  pooling: mean
+  normalize: true
+
+retrieval:
+  k: 2
+
+generator:
+  model: "gemma3:1b"
+  temperature: 0.0
+
+prompt:
+  style: zero_shot
