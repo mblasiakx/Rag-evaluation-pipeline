@@ -1,0 +1,269 @@
+"user_input","retrieved_contexts","response","reference","faithfulness","answer_relevancy","context_precision","context_recall","completeness","formatted_contexts"
+"You are a football analyst. Answer the question truthfully and precisely: What tournament was before Champions League?","['The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams\n(excluding the qualification). The format consisted of a group phase with four groups followed by three\nknockout stages.\nIn season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group\nphase, including six groups, was followed by a knockout phase in three stages.\nIn season 1999-2000 the tournament expanded for the third time and would now include 32 teams', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'group play and round-robin has evolved.\nThe tournaments have so far been dominated by the top European clubs and few surprise victories have\noccurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations\nthat could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the\nsemi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a']","The tournament before the Champions League was the European Cup.
+","European Cup was tournament before Champions League.","1.0","0.926742716376563","0.8666666666377778","1.0","0.9717","
+[1] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[2] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[3] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[4] In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams
+(excluding the qualification). The format consisted of a group phase with four groups followed by three
+knockout stages.
+In season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group
+phase, including six groups, was followed by a knockout phase in three stages.
+In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+[5] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[6] group play and round-robin has evolved.
+The tournaments have so far been dominated by the top European clubs and few surprise victories have
+occurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations
+that could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the
+semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a"
+"You are a football analyst. Answer the question truthfully and precisely: Until what year was the European Cup played?","['The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'group play and round-robin has evolved.\nThe tournaments have so far been dominated by the top European clubs and few surprise victories have\noccurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations\nthat could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the\nsemi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'with 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords\nThe largest victory margin happened between HJK Helsinki and Bangor City in the second qualification\nround in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the\nmatches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are\nconsidered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.']","The European Cup was played from 1992 to 1995.","European Cup was played until 1992.","0.0","0.9066766546724132","0.9999999999666667","1.0","0.9045","
+[1] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[4] group play and round-robin has evolved.
+The tournaments have so far been dominated by the top European clubs and few surprise victories have
+occurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations
+that could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the
+semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a
+[5] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[6] with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+The largest victory margin happened between HJK Helsinki and Bangor City in the second qualification
+round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the
+matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are
+considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0."
+"You are a football analyst. Answer the question truthfully and precisely: Since when the Champions League started to be played?","['The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams\n(excluding the qualification). The format consisted of a group phase with four groups followed by three\nknockout stages.\nIn season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group\nphase, including six groups, was followed by a knockout phase in three stages.\nIn season 1999-2000 the tournament expanded for the third time and would now include 32 teams', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'down on aggregation against Arsenal in the semi-finals in 2006.\nMost times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester\nUnited, Valencia and Liverpool have also lost the final more than once.\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club\nwith 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords']","The Champions League started in 1992-1993.","Champions League started to be played from 1992.","1.0","0.9122853861572434","0.94999999997625","1.0","0.9438","
+[1] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[4] In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams
+(excluding the qualification). The format consisted of a group phase with four groups followed by three
+knockout stages.
+In season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group
+phase, including six groups, was followed by a knockout phase in three stages.
+In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+[5] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[6] down on aggregation against Arsenal in the semi-finals in 2006.
+Most times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester
+United, Valencia and Liverpool have also lost the final more than once.
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club
+with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records"
+"You are a football analyst. Answer the question truthfully and precisely: What is a difference between Champions League and European Cup?","['The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'with 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords\nThe largest victory margin happened between HJK Helsinki and Bangor City in the second qualification\nround in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the\nmatches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are\nconsidered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.', 'down on aggregation against Arsenal in the semi-finals in 2006.\nMost times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester\nUnited, Valencia and Liverpool have also lost the final more than once.\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club\nwith 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords', 'semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a\nsensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two\nyears later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is\nanother club that is not familiar to be seen at the final steps in the biggest events; they were only one goal\ndown on aggregation against Arsenal in the semi-finals in 2006.']","The Champions League and European Cup are distinct tournaments with a key difference in their format. The Champions League introduced a mini-league group stage system starting in 1991, which is a significant departure from the round-robin format of the European Cup. The Champions League evolved into a hybrid system of group play and knockout stages, and the competition now has a permanent trophy kept by the winning team, with a rule change in 2008 allowing replicas. The European Cup, while existing for a longer period, was reshaped into the Champions League through a formal shift in the name. Real Madrid currently holds the most titles with 13, surpassing the European Cup’s record of 13 titles.","Champions League has different format that European Cup.","0.8181818181818182","0.9099454592302201","0.8666666666377778","0.0","0.7401","
+[1] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[2] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[3] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[4] with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+The largest victory margin happened between HJK Helsinki and Bangor City in the second qualification
+round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the
+matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are
+considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+[5] down on aggregation against Arsenal in the semi-finals in 2006.
+Most times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester
+United, Valencia and Liverpool have also lost the final more than once.
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club
+with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+[6] semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a
+sensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two
+years later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is
+another club that is not familiar to be seen at the final steps in the biggest events; they were only one goal
+down on aggregation against Arsenal in the semi-finals in 2006."
+"You are a football analyst. Answer the question truthfully and precisely: Which club has the most wins in the Champions League?","['down on aggregation against Arsenal in the semi-finals in 2006.\nMost times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester\nUnited, Valencia and Liverpool have also lost the final more than once.\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club\nwith 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'with 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords\nThe largest victory margin happened between HJK Helsinki and Bangor City in the second qualification\nround in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the\nmatches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are\nconsidered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.', 'The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a\nsensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two\nyears later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is\nanother club that is not familiar to be seen at the final steps in the biggest events; they were only one goal\ndown on aggregation against Arsenal in the semi-finals in 2006.']","Real Madrid has the most wins in the Champions League with 13 titles (6 and 7 in European Cup and Champions League respectively).","Real Madrid has the most wins in the Champions League.","1.0","0.838576467958201","0.7499999999625","1.0","0.9254","
+[1] down on aggregation against Arsenal in the semi-finals in 2006.
+Most times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester
+United, Valencia and Liverpool have also lost the final more than once.
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club
+with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[4] with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+The largest victory margin happened between HJK Helsinki and Bangor City in the second qualification
+round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the
+matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are
+considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+[5] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[6] semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a
+sensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two
+years later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is
+another club that is not familiar to be seen at the final steps in the biggest events; they were only one goal
+down on aggregation against Arsenal in the semi-finals in 2006."
+"You are a football analyst. Answer the question truthfully and precisely: How many times Real Madrid won European Cup?","['down on aggregation against Arsenal in the semi-finals in 2006.\nMost times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester\nUnited, Valencia and Liverpool have also lost the final more than once.\nIf Champions League and European Cup titles are combined, Real Madrid is still the best performing club\nwith 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a\nsensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two\nyears later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is\nanother club that is not familiar to be seen at the final steps in the biggest events; they were only one goal\ndown on aggregation against Arsenal in the semi-finals in 2006.', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'with 13 titles (6 and 7 in European Cup and Champions League respectively).\nRecords\nThe largest victory margin happened between HJK Helsinki and Bangor City in the second qualification\nround in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the\nmatches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are\nconsidered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.', 'group play and round-robin has evolved.\nThe tournaments have so far been dominated by the top European clubs and few surprise victories have\noccurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations\nthat could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the\nsemi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a']","13 times.
+","Real Madrid won European Cup 6 times.","1.0","0.8141044109782719","0.9999999999","0.0","0.3256","
+[1] down on aggregation against Arsenal in the semi-finals in 2006.
+Most times runners-up are Juventus (3), Milan (3), Bayern Munich (3) and Atlético Madrid (3). Manchester
+United, Valencia and Liverpool have also lost the final more than once.
+If Champions League and European Cup titles are combined, Real Madrid is still the best performing club
+with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a
+sensation; they were only one goal down on aggregation against Bayern Munich in the semi-finals. Two
+years later, Leeds reached the semi-finals, but wasn’t near to beat Valencia that time. Villa Real is
+another club that is not familiar to be seen at the final steps in the biggest events; they were only one goal
+down on aggregation against Arsenal in the semi-finals in 2006.
+[4] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[5] with 13 titles (6 and 7 in European Cup and Champions League respectively).
+Records
+The largest victory margin happened between HJK Helsinki and Bangor City in the second qualification
+round in 2011–12. If the qualification phase is excluded, the biggest goal difference is eight goals in the
+matches Liverpool-Besiktas (2007-2008) and Real Madrid-Malmö FF (2015-2016). If only finals are
+considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+[6] group play and round-robin has evolved.
+The tournaments have so far been dominated by the top European clubs and few surprise victories have
+occurred. Perhaps Porto’s victory in 2004 should be counted as the biggest surprise. Potential sensations
+that could have happened was Nantes in 1995-96 that almost managed to go through Juventus in the
+semi-finals (lost 3-4 on aggregate). If Dynamo Kyiv had won in 1998-99 it would also be seen as a"
+"You are a football analyst. Answer the question truthfully and precisely: How many years after first edition of Champions League tournament was extended to 16 teams?","['In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams\n(excluding the qualification). The format consisted of a group phase with four groups followed by three\nknockout stages.\nIn season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group\nphase, including six groups, was followed by a knockout phase in three stages.\nIn season 1999-2000 the tournament expanded for the third time and would now include 32 teams', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'In season 1999-2000 the tournament expanded for the third time and would now include 32 teams\n(excluding the qualification). Now, the teams were divided into eight groups and the first group stage was\nfollowed by a second, and finally a knockout stage.\nIn season 2014-2015, the second group stage was abandoned. Instead, another stage (Round of 16) in\nthe knockout phase was played.']","The Champions League was extended to 16 teams in 1994.","Champions League was extended to 16 teams after 2 years.","1.0","0.9154661143056888","0.9999999999","1.0","0.8626","
+[1] In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams
+(excluding the qualification). The format consisted of a group phase with four groups followed by three
+knockout stages.
+In season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group
+phase, including six groups, was followed by a knockout phase in three stages.
+In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[4] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[5] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[6] In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+(excluding the qualification). Now, the teams were divided into eight groups and the first group stage was
+followed by a second, and finally a knockout stage.
+In season 2014-2015, the second group stage was abandoned. Instead, another stage (Round of 16) in
+the knockout phase was played."
+"You are a football analyst. Answer the question truthfully and precisely: How many teams participated in the first edition of the Champions League?","['In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams\n(excluding the qualification). The format consisted of a group phase with four groups followed by three\nknockout stages.\nIn season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group\nphase, including six groups, was followed by a knockout phase in three stages.\nIn season 1999-2000 the tournament expanded for the third time and would now include 32 teams', 'clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be\nkept permanently by a club that win the tournament five times or three times in a row (since the rule\nchanged in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy\nIf the precessor, European Cup, is not counted the Champions League started in 1992. Although, when\nstatistics are presented for Champions League it is common that Champions League and European', 'considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.\nFormat and participating teams\nIn the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight\nteams were playing in two groups followed by a final between the group winners. The first season\nincluded in total 36 participating clubs in the qualification, since when the numbers have increased.', 'The UEFA Champions League came about as a new version of the European Cup and was played for the\nfirst time in the 1992-1993 season. Already established as the most prestigious club tournament in\nfootball, Champions League has become even more popular with the introduction of a mini-league group\nstage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group\nplay followed by a knockout phase. On several occasions has the competition expanded to include more', 'statistics are presented for Champions League it is common that Champions League and European\nLeague are accumulated.\nWhat distinguish the Champions League from European Cup is for many the group play instead of the\nround-robin format. The fact is, however, that a group stage was introduced already in 1991, but the\nreshaping became formalised by the name shift. In the development of the competition a hybrid-form of\ngroup play and round-robin has evolved.', 'In season 1999-2000 the tournament expanded for the third time and would now include 32 teams\n(excluding the qualification). Now, the teams were divided into eight groups and the first group stage was\nfollowed by a second, and finally a knockout stage.\nIn season 2014-2015, the second group stage was abandoned. Instead, another stage (Round of 16) in\nthe knockout phase was played.']","The first edition of the Champions League (1992-1993) consisted of 8 teams.","In the first edition of the Champions League 8 teams were playing.","1.0","0.9167543284791285","0.5833333333041666","1.0","0.7851","
+[1] In the third edition of the Champions League (1994-1995), the tournament expanded to 16 teams
+(excluding the qualification). The format consisted of a group phase with four groups followed by three
+knockout stages.
+In season 1997-1998 another expansion added more teams to 24 (excluding the qualification). A group
+phase, including six groups, was followed by a knockout phase in three stages.
+In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+[2] clubs – the initial 8 have become 32 (qualification stage excluded). The Champions League trophy can be
+kept permanently by a club that win the tournament five times or three times in a row (since the rule
+changed in 2008 it is only a replica). It is today almost as adored as the FIFA World Cup Trophy
+If the precessor, European Cup, is not counted the Champions League started in 1992. Although, when
+statistics are presented for Champions League it is common that Champions League and European
+[3] considered, the biggest win was in the 1994 final when Milan defeated Barcelona 4 to 0.
+Format and participating teams
+In the first edition (1992-1993), the tournament consisted of 8 teams after a qualification phase. The eight
+teams were playing in two groups followed by a final between the group winners. The first season
+included in total 36 participating clubs in the qualification, since when the numbers have increased.
+[4] The UEFA Champions League came about as a new version of the European Cup and was played for the
+first time in the 1992-1993 season. Already established as the most prestigious club tournament in
+football, Champions League has become even more popular with the introduction of a mini-league group
+stage system. The new concept had a resemblance to the FIFA World Cup with an early phase of group
+play followed by a knockout phase. On several occasions has the competition expanded to include more
+[5] statistics are presented for Champions League it is common that Champions League and European
+League are accumulated.
+What distinguish the Champions League from European Cup is for many the group play instead of the
+round-robin format. The fact is, however, that a group stage was introduced already in 1991, but the
+reshaping became formalised by the name shift. In the development of the competition a hybrid-form of
+group play and round-robin has evolved.
+[6] In season 1999-2000 the tournament expanded for the third time and would now include 32 teams
+(excluding the qualification). Now, the teams were divided into eight groups and the first group stage was
+followed by a second, and finally a knockout stage.
+In season 2014-2015, the second group stage was abandoned. Instead, another stage (Round of 16) in
+the knockout phase was played."

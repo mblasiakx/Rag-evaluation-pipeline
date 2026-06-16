@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/micha/OneDrive/Pulpit/Data_file_checker/mlruns/880675132078282622/28694629a6ed4b86b6bb86cfcde0acb7/artifacts
+end_time: 1755210537475
+entry_point_name: ''
+experiment_id: '880675132078282622'
+lifecycle_stage: active
+run_id: 28694629a6ed4b86b6bb86cfcde0acb7
+run_name: prompt_injection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755210537280
+status: 3
+tags: []
+user_id: micha

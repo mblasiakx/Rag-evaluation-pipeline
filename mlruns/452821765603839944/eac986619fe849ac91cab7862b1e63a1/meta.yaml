@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/micha/OneDrive/Pulpit/Data_file_checker/mlruns/452821765603839944/eac986619fe849ac91cab7862b1e63a1/artifacts
+end_time: 1755182808040
+entry_point_name: ''
+experiment_id: '452821765603839944'
+lifecycle_stage: active
+run_id: eac986619fe849ac91cab7862b1e63a1
+run_name: chain_of_thought
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755182807840
+status: 3
+tags: []
+user_id: micha
